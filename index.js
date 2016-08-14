@@ -129,7 +129,14 @@ const parseTable = function(html) {
 
 pGet(baseUrl).then((res) => {
   const events = parseTable(res.text);
-  return fs.writeFileAsync('schedule.json', JSON.stringify(events, null, 2));
+  const saveJson = fs.writeFileAsync('schedule.json', JSON.stringify(events, null, 2));
+  const js =
+`var json = '${JSON.stringify(events)}';
+
+var schedule = JSON.parse(json);
+`;
+  const saveJs = fs.writeFileAsync('scheduleData.js', js);
+  return Promise.all([saveJson, saveJs]);
 }).catch((err) => {
   console.log(err);
 });
