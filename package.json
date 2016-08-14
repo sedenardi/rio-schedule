@@ -1,0 +1,27 @@
+{
+  "name": "rio-schedule",
+  "version": "1.0.0",
+  "description": "2016 Olympics US TV schedule.",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "cheerio": "^0.20.0",
+    "lodash": "^4.15.0",
+    "moment": "^2.14.1",
+    "moment-timezone": "^0.5.5",
+    "superagent": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedenardi/rio-schedule.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/sedenardi/rio-schedule/issues"
+  },
+  "homepage": "https://github.com/sedenardi/rio-schedule#readme",
+  "devDependencies": {
+    "eslint": "^3.3.0"
+  }
+}
