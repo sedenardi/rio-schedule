@@ -112,6 +112,7 @@ const parseTable = function(html) {
     .map((e) => {
       const start = moment.tz(`${e.Date} 2016 ${e.Start}`, format, timeZone);
       const end = moment.tz(`${e.Date} 2016 ${e.End}`, format, timeZone);
+      if (start > end) { end.add(1, 'days'); }
       return _.map(e.Networks.split(','), (n) => {
         return {
           Network: n.trim(),

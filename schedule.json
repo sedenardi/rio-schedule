@@ -1,415 +1,6 @@
 [
   {
     "Network": "NBCSN",
-    "Start": "2016-08-14T06:00:00.000Z",
-    "End": "2016-08-14T10:00:00.000Z",
-    "EventName": "Encore coverage",
-    "LiveOrTape": "TAPE"
-  },
-  {
-    "Network": "Telemundo",
-    "Start": "2016-08-14T07:00:00.000Z",
-    "End": "2016-08-14T09:00:00.000Z",
-    "EventName": "Encore coverage",
-    "LiveOrTape": "TAPE"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T10:00:00.000Z",
-    "End": "2016-08-14T11:00:00.000Z",
-    "EventName": "Encore of NBC late night show",
-    "LiveOrTape": "TAPE"
-  },
-  {
-    "Network": "NBC Universo",
-    "Start": "2016-08-14T10:00:00.000Z",
-    "End": "2016-08-15T00:00:00.000Z",
-    "EventName": "Encore coverage",
-    "LiveOrTape": "TAPE"
-  },
-  {
-    "Network": "Golf Channel",
-    "Start": "2016-08-14T10:30:00.000Z",
-    "End": "2016-08-14T19:00:00.000Z",
-    "EventName": "Men’s Golf",
-    "EventDetails": "Final Round",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T12:00:00.000Z",
-    "End": "2016-08-14T15:15:00.000Z",
-    "EventName": "(8:30 AM)",
-    "EventDetails": "Women’s Marathon",
-    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
-  },
-  {
-    "Network": "USA",
-    "Start": "2016-08-14T13:00:00.000Z",
-    "End": "2016-08-14T15:00:00.000Z",
-    "EventName": "Women’s Volleyball",
-    "EventDetails": "Serbia/Netherlands (8:30 AM)",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "Bravo",
-    "Start": "2016-08-14T15:00:00.000Z",
-    "End": "2016-08-14T18:00:00.000Z",
-    "EventName": "Tennis",
-    "EventDetails": "Women’s Doubles and Mixed Doubles Final, Men’s Singles and Mixed Doubles Third-Place Match",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "USA",
-    "Start": "2016-08-14T15:00:00.000Z",
-    "End": "2016-08-14T17:00:00.000Z",
-    "EventName": "Wrestling",
-    "EventDetails": "Greco-Roman Qualifying",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "USA",
-    "Start": "2016-08-14T15:00:00.000Z",
-    "End": "2016-08-14T17:00:00.000Z",
-    "EventName": "Men’s Shooting",
-    "EventDetails": "Men’s Rifle, Three Positions Final",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "Telemundo",
-    "Start": "2016-08-14T15:00:00.000Z",
-    "End": "2016-08-14T19:00:00.000Z",
-    "EventName": "Boxing",
-    "EventDetails": "Elimination Matches",
-    "LiveOrTape": "??? (live stream at 10 AM)"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T15:15:00.000Z",
-    "End": "2016-08-14T17:00:00.000Z",
-    "EventName": "Women’s Basketball",
-    "EventDetails": "United States/China",
-    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
-  },
-  {
-    "Network": "OBC",
-    "Start": "2016-08-14T15:15:00.000Z",
-    "End": "2016-08-14T17:00:00.000Z",
-    "EventName": "Women’s Basketball",
-    "EventDetails": "United States/China",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T17:00:00.000Z",
-    "End": "2016-08-14T19:00:00.000Z",
-    "EventName": "Men’s Golf",
-    "EventDetails": "Final Round",
-    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T17:00:00.000Z",
-    "End": "2016-08-14T19:00:00.000Z",
-    "EventName": "Equestrian",
-    "EventDetails": "Individual Jumping Qualifying",
-    "LiveOrTape": "TAPE (live stream at 9 AM)"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T17:00:00.000Z",
-    "End": "2016-08-14T19:00:00.000Z",
-    "EventName": "Synchronized Swimming",
-    "EventDetails": "Duet Qualifying",
-    "LiveOrTape": "TAPE (live stream at 10 AM)"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T17:00:00.000Z",
-    "End": "2016-08-14T19:00:00.000Z",
-    "EventName": "Men’s Basketball",
-    "EventDetails": "United States/France",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "Telemundo OBC",
-    "Start": "2016-08-14T17:00:00.000Z",
-    "End": "2016-08-14T19:00:00.000Z",
-    "EventName": "Men’s Basketball",
-    "EventDetails": "United States/France",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "MSNBC",
-    "Start": "2016-08-14T17:00:00.000Z",
-    "End": "2016-08-14T19:30:00.000Z",
-    "EventName": "Men’s Water Polo",
-    "EventDetails": "Montenegro/Spain",
-    "LiveOrTape": "TAPE (live stream at 8:30 AM)"
-  },
-  {
-    "Network": "MSNBC",
-    "Start": "2016-08-14T17:00:00.000Z",
-    "End": "2016-08-14T19:30:00.000Z",
-    "EventName": "Men’s Field Hockey",
-    "EventDetails": "Quarterfinal",
-    "LiveOrTape": "TAPE (live streams at 9 and 11:30 AM)"
-  },
-  {
-    "Network": "Bravo",
-    "Start": "2016-08-14T18:00:00.000Z",
-    "End": "2016-08-14T04:00:00.000Z",
-    "EventName": "Tennis",
-    "EventDetails": "Men’s Singles Final: Argentina (Del Potro) v. Great Britain (Murray)",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T19:00:00.000Z",
-    "End": "2016-08-14T20:00:00.000Z",
-    "EventName": "Women’s Beach Volleyball",
-    "EventDetails": "Canada (Pavan/Bansley) v. Germany (Ludwig/Walkenhorst)",
-    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T19:00:00.000Z",
-    "End": "2016-08-14T21:00:00.000Z",
-    "EventName": "Men’s Water Polo",
-    "EventDetails": "United States/Italy",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T19:00:00.000Z",
-    "End": "2016-08-14T21:00:00.000Z",
-    "EventName": "Women’s Beach Volleyball",
-    "EventDetails": "Brazil (Larissa/Talita) v. Switzerland (Heidrich/Zumkehr) (4:00 PM)",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T19:00:00.000Z",
-    "End": "2016-08-14T21:00:00.000Z",
-    "EventName": "Telemundo",
-    "LiveOrTape": "3:00 PM"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T19:00:00.000Z",
-    "End": "2016-08-14T21:00:00.000Z",
-    "EventName": "Boxing",
-    "EventDetails": "Elimination Matches",
-    "LiveOrTape": "??? (live stream at 4 PM)"
-  },
-  {
-    "Network": "MSNBC",
-    "Start": "2016-08-14T19:30:00.000Z",
-    "End": "2016-08-14T21:00:00.000Z",
-    "EventName": "Men’s Table Tennis",
-    "EventDetails": "Team Quarterfinals",
-    "LiveOrTape": "TAPE (live streams at 9 AM and 2 PM)"
-  },
-  {
-    "Network": "MSNBC",
-    "Start": "2016-08-14T19:30:00.000Z",
-    "End": "2016-08-14T21:00:00.000Z",
-    "EventName": "Sailing",
-    "EventDetails": "Finals",
-    "LiveOrTape": "TAPE (live stream at Noon)"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T20:00:00.000Z",
-    "End": "2016-08-14T22:00:00.000Z",
-    "EventName": "Women’s Volleyball",
-    "EventDetails": "United States/China",
-    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
-  },
-  {
-    "Network": "CNBC",
-    "Start": "2016-08-14T20:00:00.000Z",
-    "End": "2016-08-14T23:00:00.000Z",
-    "EventName": "Women’s Handball",
-    "EventDetails": "Norway/Romania (3:40 PM)",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "CNBC",
-    "Start": "2016-08-14T20:00:00.000Z",
-    "End": "2016-08-14T23:00:00.000Z",
-    "EventName": "Men’s Field Hockey",
-    "EventDetails": "Quarterfinal (5 PM)",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "CNBC",
-    "Start": "2016-08-14T20:00:00.000Z",
-    "End": "2016-08-14T23:00:00.000Z",
-    "EventName": "Women’s Badminton",
-    "EventDetails": "USA (Wang) v. China (Li)",
-    "LiveOrTape": "TAPE (live stream at 2:55 PM)"
-  },
-  {
-    "Network": "OBC",
-    "Start": "2016-08-14T20:30:00.000Z",
-    "End": "2016-08-14T22:00:00.000Z",
-    "EventName": "Women’s Basketball",
-    "EventDetails": "Senegal/Serbia",
-    "LiveOrTape": "TAPE (live stream at 2:30 PM)"
-  },
-  {
-    "Network": "NBC Universo",
-    "Start": "2016-08-14T21:00:00.000Z",
-    "End": "2016-08-14T23:00:00.000Z",
-    "EventName": "Women’s Volleyball",
-    "EventDetails": "Italy/Puerto Rico",
-    "LiveOrTape": "TAPE (live stream at 2 PM)"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T21:00:00.000Z",
-    "End": "2016-08-14T23:45:00.000Z",
-    "EventName": "Wrestling",
-    "EventDetails": "Greco-Roman Finals",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T21:00:00.000Z",
-    "End": "2016-08-14T23:45:00.000Z",
-    "EventName": "Cycling",
-    "EventDetails": "Track Finals",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T21:00:00.000Z",
-    "End": "2016-08-14T23:45:00.000Z",
-    "EventName": "Women’s Weightlifting",
-    "EventDetails": "+75kg Finals",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "OBC",
-    "Start": "2016-08-14T22:00:00.000Z",
-    "End": "2016-08-14T23:45:00.000Z",
-    "EventName": "Men’s Basketball",
-    "EventDetails": "Australia/Venezuela",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T23:00:00.000Z",
-    "End": "2016-08-14T04:00:00.000Z",
-    "EventName": "Track & Field",
-    "EventDetails": "Finals: Women’s Triple Jump (7:55 PM), Men’s 400m (9:00 PM), Men’s 100m (9:25 PM)",
-    "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T23:00:00.000Z",
-    "End": "2016-08-14T04:00:00.000Z",
-    "EventName": "Gymnastics",
-    "EventDetails": "Individual Event Finals: Men’s Floor, Women’s Vault, Men’s Pommel Horse, Women’s Bars",
-    "LiveOrTape": "TAPE (live stream at 1 PM)"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T23:00:00.000Z",
-    "End": "2016-08-14T04:00:00.000Z",
-    "EventName": "Women’s Diving",
-    "EventDetails": "Springboard Final",
-    "LiveOrTape": "TAPE (live stream at 3 PM)"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T23:00:00.000Z",
-    "End": "2016-08-14T04:00:00.000Z",
-    "EventName": "Women’s Beach Volleyball",
-    "EventDetails": "USA (Walsh-Jennings/Ross) v. Australia (Clancy/Bawden) (10:59 PM)",
-    "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T23:45:00.000Z",
-    "End": "2016-08-15T01:30:00.000Z",
-    "EventName": "Men’s Water Polo",
-    "EventDetails": "Brazil/Hungary",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-14T23:45:00.000Z",
-    "End": "2016-08-15T01:30:00.000Z",
-    "EventName": "Men’s Boxing",
-    "EventDetails": "Final, Elimination Rounds",
-    "LiveOrTape": "TAPE (live streams at 10 and 4 PM)"
-  },
-  {
-    "Network": "OBC",
-    "Start": "2016-08-14T23:45:00.000Z",
-    "End": "2016-08-15T01:30:00.000Z",
-    "EventName": "Women’s Basketball",
-    "EventDetails": "Spain/Canada",
-    "LiveOrTape": "TAPE (live stream at 4:45 PM)"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-15T01:30:00.000Z",
-    "End": "2016-08-14T04:00:00.000Z",
-    "EventName": "Women’s Volleyball",
-    "EventDetails": "Brazil/Russia",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-15T01:30:00.000Z",
-    "End": "2016-08-14T04:00:00.000Z",
-    "EventName": "Men’s Boxing",
-    "EventDetails": "Final, Elimination Rounds",
-    "LiveOrTape": "TAPE (live streams at 10 and 4 PM)"
-  },
-  {
-    "Network": "OBC",
-    "Start": "2016-08-15T01:30:00.000Z",
-    "End": "2016-08-15T03:15:00.000Z",
-    "EventName": "Men’s Basketball",
-    "EventDetails": "Serbia/China",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "Telemundo",
-    "Start": "2016-08-14T04:00:00.000Z",
-    "End": "2016-08-14T06:00:00.000Z",
-    "EventName": "Encore coverage",
-    "LiveOrTape": "TAPE"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T04:35:00.000Z",
-    "End": "2016-08-14T05:35:00.000Z",
-    "EventName": "Gymnastics",
-    "EventDetails": "Individual Event Finals",
-    "LiveOrTape": "TAPE"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T04:35:00.000Z",
-    "End": "2016-08-14T05:35:00.000Z",
-    "EventName": "Women’s Beach Volleyball",
-    "EventDetails": "Quarterfinal",
-    "LiveOrTape": "TAPE"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-14T05:35:00.000Z",
-    "End": "2016-08-14T08:30:00.000Z",
-    "EventName": "Primetime replay",
-    "LiveOrTape": "TAPE"
-  },
-  {
-    "Network": "NBCSN",
     "Start": "2016-08-15T06:00:00.000Z",
     "End": "2016-08-15T10:00:00.000Z",
     "EventName": "Encore coverage",
@@ -465,7 +56,7 @@
     "Start": "2016-08-15T13:00:00.000Z",
     "End": "2016-08-15T14:30:00.000Z",
     "EventName": "Women’s Field Hockey",
-    "EventDetails": "Quarterfinal",
+    "EventDetails": "Quarterfinal: New Zealand/Australia",
     "LiveOrTape": "LIVE"
   },
   {
@@ -481,7 +72,7 @@
     "Start": "2016-08-15T14:00:00.000Z",
     "End": "2016-08-15T17:00:00.000Z",
     "EventName": "Men’s Volleyball",
-    "EventDetails": "United States/Mexico",
+    "EventDetails": "United States/Mexico (10:30 AM)",
     "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
   },
   {
@@ -500,6 +91,14 @@
     "LiveOrTape": "TAPE (live at 8:30 AM)"
   },
   {
+    "Network": "NBC",
+    "Start": "2016-08-15T14:00:00.000Z",
+    "End": "2016-08-15T17:00:00.000Z",
+    "EventName": "Women’s Diving",
+    "EventDetails": "Springboard Final",
+    "LiveOrTape": "TAPE (aired previous day)"
+  },
+  {
     "Network": "USA",
     "Start": "2016-08-15T14:30:00.000Z",
     "End": "2016-08-15T16:30:00.000Z",
@@ -512,16 +111,16 @@
     "Start": "2016-08-15T15:30:00.000Z",
     "End": "2016-08-15T17:00:00.000Z",
     "EventName": "Women’s Field Hockey",
-    "EventDetails": "Quarterfinal",
+    "EventDetails": "Quarterfinal: United States/Germany",
     "LiveOrTape": "LIVE"
   },
   {
     "Network": "MSNBC",
     "Start": "2016-08-15T16:00:00.000Z",
-    "End": "2016-08-15T17:15:00.000Z",
-    "EventName": "Men’s Handball",
-    "EventDetails": "Poland/Slovenia",
-    "LiveOrTape": "TAPE (live stream at 8:30 AM)"
+    "End": "2016-08-15T17:00:00.000Z",
+    "EventName": "Cycling",
+    "EventDetails": "Track Events",
+    "LiveOrTape": "TAPE (live stream at 9 AM)"
   },
   {
     "Network": "USA",
@@ -544,7 +143,7 @@
     "Start": "2016-08-15T17:00:00.000Z",
     "End": "2016-08-15T18:30:00.000Z",
     "EventName": "Women’s Water Polo",
-    "EventDetails": "Quarterfinal",
+    "EventDetails": "United States/Brazil",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
   },
   {
@@ -556,7 +155,7 @@
     "LiveOrTape": "??? (live stream at 9 AM)"
   },
   {
-    "Network": "NBCSN",
+    "Network": "MSNBC",
     "Start": "2016-08-15T17:00:00.000Z",
     "End": "2016-08-15T20:00:00.000Z",
     "EventName": "Wrestling",
@@ -564,23 +163,23 @@
     "LiveOrTape": "TAPE (live stream at 9 AM)"
   },
   {
-    "Network": "NBCSN",
+    "Network": "MSNBC",
     "Start": "2016-08-15T17:00:00.000Z",
     "End": "2016-08-15T20:00:00.000Z",
-    "EventName": "Cycling",
-    "EventDetails": "Track",
-    "LiveOrTape": "??? (live streams at 9 AM, 3 PM)"
-  },
-  {
-    "Network": "NBCSN",
-    "Start": "2016-08-15T17:00:00.000Z",
-    "End": "2016-08-15T20:00:00.000Z",
-    "EventName": "Men’s Beach Volleyball",
-    "EventDetails": "Quarterfinal",
+    "EventName": "Men’s Handball",
+    "EventDetails": "France/Denmark (1:40 PM)",
     "LiveOrTape": "LIVE"
   },
   {
     "Network": "MSNBC",
+    "Start": "2016-08-15T17:00:00.000Z",
+    "End": "2016-08-15T20:00:00.000Z",
+    "EventName": "Women’s Water Polo",
+    "EventDetails": "Quarterfinal: Australia/Hungary (2:30 PM)",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
     "Start": "2016-08-15T17:15:00.000Z",
     "End": "2016-08-15T19:00:00.000Z",
     "EventName": "Men’s Basketball",
@@ -606,15 +205,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-15T18:30:00.000Z",
-    "End": "2016-08-15T21:00:00.000Z",
-    "EventName": "Men’s Beach Volleyball",
-    "EventDetails": "Quarterfinals",
-    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
-  },
-  {
-    "Network": "NBC",
-    "Start": "2016-08-15T18:30:00.000Z",
-    "End": "2016-08-15T21:00:00.000Z",
+    "End": "2016-08-15T20:00:00.000Z",
     "EventName": "Canoe/Kayak",
     "EventDetails": "Sprint Semifinals",
     "LiveOrTape": "TAPE (live stream at 8 AM)"
@@ -622,46 +213,21 @@
   {
     "Network": "NBC",
     "Start": "2016-08-15T18:30:00.000Z",
-    "End": "2016-08-15T21:00:00.000Z",
-    "EventName": "Synchronized Swimming",
-    "EventDetails": "Duet Qualifying",
-    "LiveOrTape": "TAPE (live stream at 10 AM)"
-  },
-  {
-    "Network": "MSNBC",
-    "Start": "2016-08-15T19:00:00.000Z",
-    "End": "2016-08-15T21:00:00.000Z",
-    "EventName": "Women’s Water Polo",
-    "EventDetails": "Quarterfinal",
-    "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "MSNBC",
-    "Start": "2016-08-15T19:00:00.000Z",
-    "End": "2016-08-15T21:00:00.000Z",
-    "EventName": "Badminton",
-    "EventDetails": "Quarterfinal",
-    "LiveOrTape": "??? (live stream at 4:30 PM)"
-  },
-  {
-    "Network": "MSNBC",
-    "Start": "2016-08-15T19:00:00.000Z",
-    "End": "2016-08-15T21:00:00.000Z",
-    "EventName": "Sailing",
-    "EventDetails": "Final",
-    "LiveOrTape": "TAPE (live stream at Noon)"
-  },
-  {
-    "Network": "NBC Universo",
-    "Start": "2016-08-15T19:00:00.000Z",
     "End": "2016-08-15T20:00:00.000Z",
     "EventName": "Men’s Beach Volleyball",
-    "EventDetails": "Quarterfinal",
-    "LiveOrTape": "LIVE"
+    "EventDetails": "Quarterfinal: USA (Dalhausser/Lucena) v. Brazil (Alison/Bruno) (3 PM)",
+    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-15T18:30:00.000Z",
+    "End": "2016-08-15T20:00:00.000Z",
+    "EventName": "NBC Universo",
+    "LiveOrTape": "3:00 PM"
   },
   {
     "Network": "NBCSN",
-    "Start": "2016-08-15T20:00:00.000Z",
+    "Start": "2016-08-15T19:00:00.000Z",
     "End": "2016-08-15T22:00:00.000Z",
     "EventName": "Men’s  Volleyball",
     "EventDetails": "Russia/Iran",
@@ -669,11 +235,51 @@
   },
   {
     "Network": "NBCSN",
-    "Start": "2016-08-15T20:00:00.000Z",
+    "Start": "2016-08-15T19:00:00.000Z",
     "End": "2016-08-15T22:00:00.000Z",
     "EventName": "Cycling",
     "EventDetails": "Track Final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-15T20:00:00.000Z",
+    "End": "2016-08-15T21:00:00.000Z",
+    "EventName": "Synchronized Swimming",
+    "EventDetails": "Duet Qualifying",
+    "LiveOrTape": "TAPE (live stream at 10 AM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-15T20:00:00.000Z",
+    "End": "2016-08-15T21:00:00.000Z",
+    "EventName": "Women’s Swimming",
+    "EventDetails": "Open Water 10K",
+    "LiveOrTape": "TAPE (live stream at 8 AM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-15T20:00:00.000Z",
+    "End": "2016-08-15T21:00:00.000Z",
+    "EventName": "Canoe/Kayak",
+    "EventDetails": "Sprint Semifinals",
+    "LiveOrTape": "TAPE (live stream at 8 AM)"
+  },
+  {
+    "Network": "MSNBC",
+    "Start": "2016-08-15T20:00:00.000Z",
+    "End": "2016-08-15T21:00:00.000Z",
+    "EventName": "Badminton",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "??? (live stream at 4:30 PM)"
+  },
+  {
+    "Network": "MSNBC",
+    "Start": "2016-08-15T20:00:00.000Z",
+    "End": "2016-08-15T21:00:00.000Z",
+    "EventName": "Sailing",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE (live stream at Noon)"
   },
   {
     "Network": "NBC Universo",
@@ -687,8 +293,16 @@
     "Network": "CNBC",
     "Start": "2016-08-15T21:00:00.000Z",
     "End": "2016-08-16T00:00:00.000Z",
+    "EventName": "Women’s Field Hockey",
+    "EventDetails": "Quarterfinal: Great Britain/Spain (5 PM)",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2016-08-15T21:00:00.000Z",
+    "End": "2016-08-16T00:00:00.000Z",
     "EventName": "Women’s Water Polo",
-    "EventDetails": "Quarterfinals",
+    "EventDetails": "Quarterfinal: Italy/China (6:40 PM)",
     "LiveOrTape": "LIVE"
   },
   {
@@ -716,7 +330,7 @@
     "LiveOrTape": "LIVE"
   },
   {
-    "Network": "Telemundo",
+    "Network": "NBC Universo",
     "Start": "2016-08-15T22:00:00.000Z",
     "End": "2016-08-16T00:00:00.000Z",
     "EventName": "Boxing",
@@ -727,9 +341,9 @@
     "Network": "NBCSN",
     "Start": "2016-08-16T00:00:00.000Z",
     "End": "2016-08-16T01:30:00.000Z",
-    "EventName": "Men’s Weightlifting",
-    "EventDetails": "105kg Final",
-    "LiveOrTape": "TAPE (live streams at 2:30 and 6 PM)"
+    "EventName": "Boxing",
+    "EventDetails": "Men’s Heavyweight Final; Women’s Quarterfinals",
+    "LiveOrTape": "TAPE (live stream at 4 PM)"
   },
   {
     "Network": "NBCSN",
@@ -742,23 +356,23 @@
   {
     "Network": "NBC",
     "Start": "2016-08-16T00:00:00.000Z",
-    "End": "2016-08-15T04:00:00.000Z",
+    "End": "2016-08-16T04:00:00.000Z",
     "EventName": "Track & Field",
-    "EventDetails": "Finals: Men’s Pole Vault (7:35 PM), Men’s 800m (9:25 PM), Women’s 400m (9:45 PM)",
+    "EventDetails": "Finals: Men’s Pole Vault (8:40 PM), Men’s 800m (9:45 PM), Women’s 400m (10:05 PM)",
     "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
   },
   {
     "Network": "NBC",
     "Start": "2016-08-16T00:00:00.000Z",
-    "End": "2016-08-15T04:00:00.000Z",
+    "End": "2016-08-16T04:00:00.000Z",
     "EventName": "Gymnastics",
-    "EventDetails": "Individual Event Finals: Men’s Rings, Men’s Vault, Women’s Balance Beam",
+    "EventDetails": "Individual Event Finals:  Women’s Balance Beam, Men’s Rings, Men’s Vault",
     "LiveOrTape": "TAPE (live stream at 1 PM)"
   },
   {
     "Network": "NBC",
     "Start": "2016-08-16T00:00:00.000Z",
-    "End": "2016-08-15T04:00:00.000Z",
+    "End": "2016-08-16T04:00:00.000Z",
     "EventName": "Men’s Diving",
     "EventDetails": "Springboard Qualifying",
     "LiveOrTape": "TAPE (live stream at 2:15 PM)"
@@ -774,7 +388,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-16T01:30:00.000Z",
-    "End": "2016-08-15T04:00:00.000Z",
+    "End": "2016-08-16T04:00:00.000Z",
     "EventName": "Men’s  Volleyball",
     "EventDetails": "Brazil/France",
     "LiveOrTape": "LIVE"
@@ -782,25 +396,25 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-16T01:30:00.000Z",
-    "End": "2016-08-15T04:00:00.000Z",
-    "EventName": "Boxing",
-    "EventDetails": "Men’s Heavyweight Final",
-    "LiveOrTape": "TAPE (live stream at 4 PM)"
+    "End": "2016-08-16T04:00:00.000Z",
+    "EventName": "Men’s Weightlifting",
+    "EventDetails": "105kg Final",
+    "LiveOrTape": "TAPE (live streams at 2:30, 6 PM)"
   },
   {
     "Network": "Telemundo",
     "Start": "2016-08-15T04:00:00.000Z",
     "End": "2016-08-15T06:00:00.000Z",
-    "EventName": "To be announced",
-    "LiveOrTape": "TBD"
+    "EventName": "Recap",
+    "LiveOrTape": "TAPE"
   },
   {
     "Network": "NBC",
     "Start": "2016-08-15T04:35:00.000Z",
     "End": "2016-08-15T05:35:00.000Z",
     "EventName": "Men’s Beach Volleyball",
-    "EventDetails": "Quarterfinal",
-    "LiveOrTape": "TAPE"
+    "EventDetails": "Quarterfinal: Russia (Semenov/Krasilnikov) v. Cuba (Diaz/Gonzalez)",
+    "LiveOrTape": "TAPE (live stream at 11 PM)"
   },
   {
     "Network": "NBC",
@@ -858,7 +472,7 @@
     "Start": "2016-08-16T12:00:00.000Z",
     "End": "2016-08-16T16:00:00.000Z",
     "EventName": "Track & Field",
-    "EventDetails": "Finals: Men’s Triple Jump (8:50 AM), Women’s Discus (10:20 AM)",
+    "EventDetails": "Qualifying Heats; Men’s Triple Jump Final (8:50 AM), Women’s Discus Final (10:20 AM)",
     "LiveOrTape": "LIVE"
   },
   {
@@ -882,7 +496,7 @@
     "Start": "2016-08-16T14:00:00.000Z",
     "End": "2016-08-16T15:30:00.000Z",
     "EventName": "Track & Field",
-    "EventDetails": "Finals: Men’s Triple Jump (8:50 AM), Women’s Discus (10:20 AM)",
+    "EventDetails": "Qualifying Heats; Men’s Triple Jump Final (8:50 AM), Women’s Discus Final (10:20 AM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
   },
   {
@@ -890,7 +504,7 @@
     "Start": "2016-08-16T14:00:00.000Z",
     "End": "2016-08-16T15:45:00.000Z",
     "EventName": "Women’s Basketball",
-    "EventDetails": "Quarterfinal",
+    "EventDetails": "Quarterfinal: Australia/Serbia",
     "LiveOrTape": "LIVE"
   },
   {
@@ -912,7 +526,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-17T03:30:00.000Z",
-    "End": "2016-08-16T17:00:00.000Z",
+    "End": "2016-08-17T17:00:00.000Z",
     "EventName": "Men’s Water Polo",
     "EventDetails": "Quarterfinal",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -920,7 +534,15 @@
   {
     "Network": "NBC",
     "Start": "2016-08-17T03:30:00.000Z",
-    "End": "2016-08-16T17:00:00.000Z",
+    "End": "2016-08-17T17:00:00.000Z",
+    "EventName": "Track & Field",
+    "EventDetails": "Qualifying",
+    "LiveOrTape": "TAPE (live streams at 8:30 and 8:45 AM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-17T03:30:00.000Z",
+    "End": "2016-08-17T17:00:00.000Z",
     "EventName": "Equestrian",
     "EventDetails": "Team Jumping Qualifying",
     "LiveOrTape": "TAPE (live stream at 9 AM)"
@@ -946,7 +568,7 @@
     "Start": "2016-08-16T16:00:00.000Z",
     "End": "2016-08-16T18:00:00.000Z",
     "EventName": "Women’s Soccer",
-    "EventDetails": "Semifinal",
+    "EventDetails": "Semifinal: Brazil/Sweden",
     "LiveOrTape": "LIVE"
   },
   {
@@ -954,7 +576,7 @@
     "Start": "2016-08-16T16:00:00.000Z",
     "End": "2016-08-16T18:00:00.000Z",
     "EventName": "Women’s Soccer",
-    "EventDetails": "Semifinal",
+    "EventDetails": "Semifinal: Brazil/Sweden",
     "LiveOrTape": "LIVE"
   },
   {
@@ -962,8 +584,15 @@
     "Start": "2016-08-16T16:00:00.000Z",
     "End": "2016-08-16T18:00:00.000Z",
     "EventName": "Women’s Soccer",
-    "EventDetails": "Semifinal",
+    "EventDetails": "Semifinal: Brazil/Sweden",
     "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Telemundo",
+    "Start": "2016-08-16T16:00:00.000Z",
+    "End": "2016-08-16T19:00:00.000Z",
+    "EventName": "Synchronized Swimming",
+    "LiveOrTape": "TAPE (live stream at 1 PM)"
   },
   {
     "Network": "NBCSN",
@@ -1002,7 +631,7 @@
     "Start": "2016-08-16T17:00:00.000Z",
     "End": "2016-08-16T19:00:00.000Z",
     "EventName": "Women’s Table Tennis",
-    "EventDetails": "Team Bronze Final",
+    "EventDetails": "Team Third-Place Match",
     "LiveOrTape": "TAPE (live stream at 10 AM)"
   },
   {
@@ -1010,7 +639,7 @@
     "Start": "2016-08-16T17:30:00.000Z",
     "End": "2016-08-16T19:15:00.000Z",
     "EventName": "Women’s Basketball",
-    "EventDetails": "Quarterfinal",
+    "EventDetails": "Quarterfinal: Spain/Turkey",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1073,7 +702,7 @@
     "Start": "2016-08-16T19:00:00.000Z",
     "End": "2016-08-16T21:00:00.000Z",
     "EventName": "Women’s Soccer",
-    "EventDetails": "Semifinal",
+    "EventDetails": "Semifinal: Germany/Canada",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1081,7 +710,7 @@
     "Start": "2016-08-16T19:00:00.000Z",
     "End": "2016-08-16T21:00:00.000Z",
     "EventName": "Women’s Soccer",
-    "EventDetails": "Semifinal",
+    "EventDetails": "Semifinal: Germany/Canada",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1089,7 +718,7 @@
     "Start": "2016-08-16T19:00:00.000Z",
     "End": "2016-08-16T21:00:00.000Z",
     "EventName": "Women’s Soccer",
-    "EventDetails": "Semifinal",
+    "EventDetails": "Semifinal: Germany/Canada",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1097,7 +726,7 @@
     "Start": "2016-08-16T19:00:00.000Z",
     "End": "2016-08-16T21:30:00.000Z",
     "EventName": "Badminton",
-    "EventDetails": "Doubles Semifinals",
+    "EventDetails": "Doubles Semifinal",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1119,17 +748,33 @@
   {
     "Network": "NBC Universo",
     "Start": "2016-08-16T21:00:00.000Z",
-    "End": "2016-08-16T22:00:00.000Z",
+    "End": "2016-08-17T00:00:00.000Z",
     "EventName": "Beach Volleyball",
     "EventDetails": "Semifinal",
     "LiveOrTape": "TAPE (live streams at 3 and 4 PM)"
+  },
+  {
+    "Network": "NBC Universo",
+    "Start": "2016-08-16T21:00:00.000Z",
+    "End": "2016-08-17T00:00:00.000Z",
+    "EventName": "Women’s Volleyball",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "??? (live streams 9 AM, 1 and 5 PM)"
+  },
+  {
+    "Network": "NBC Universo",
+    "Start": "2016-08-16T21:00:00.000Z",
+    "End": "2016-08-17T00:00:00.000Z",
+    "EventName": "Boxing",
+    "EventDetails": "Elimination Matches",
+    "LiveOrTape": "TAPE (live streams at 10 AM, 4 PM)"
   },
   {
     "Network": "NBCSN",
     "Start": "2016-08-16T21:30:00.000Z",
     "End": "2016-08-16T23:30:00.000Z",
     "EventName": "Women’s Basketball",
-    "EventDetails": "Quarterfinal",
+    "EventDetails": "Quarterfinal: United States/Japan",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1137,16 +782,8 @@
     "Start": "2016-08-16T21:30:00.000Z",
     "End": "2016-08-16T23:30:00.000Z",
     "EventName": "Women’s Basketball",
-    "EventDetails": "Quarterfinal",
+    "EventDetails": "Quarterfinal: United States/Japan",
     "LiveOrTape": "LIVE"
-  },
-  {
-    "Network": "NBC Universo",
-    "Start": "2016-08-16T22:00:00.000Z",
-    "End": "2016-08-17T00:00:00.000Z",
-    "EventName": "Women’s Volleyball",
-    "EventDetails": "Quarterfinal",
-    "LiveOrTape": "??? (live streams 9 AM, 1 and 5 PM)"
   },
   {
     "Network": "CNBC",
@@ -1178,12 +815,12 @@
     "End": "2016-08-17T01:15:00.000Z",
     "EventName": "Men’s Weightlifting",
     "EventDetails": "Superheavy Final",
-    "LiveOrTape": "TAPE (live streams at 2:30 and 6 PM)"
+    "LiveOrTape": "LIVE"
   },
   {
     "Network": "NBC",
     "Start": "2016-08-17T00:00:00.000Z",
-    "End": "2016-08-16T04:00:00.000Z",
+    "End": "2016-08-17T04:00:00.000Z",
     "EventName": "Track & Field",
     "EventDetails": "Finals: Men’s High Jump (7:30 PM), Women’s 1500m (9:30 PM), Men’s 110m Hurdles (9:45 PM)",
     "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
@@ -1191,7 +828,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-17T00:00:00.000Z",
-    "End": "2016-08-16T04:00:00.000Z",
+    "End": "2016-08-17T04:00:00.000Z",
     "EventName": "Gymnastics",
     "EventDetails": "Individual Event Finals: Women’s Floor, Men’s Parallel Bars, Men’s High Bar",
     "LiveOrTape": "TAPE (live stream at 1 PM)"
@@ -1199,7 +836,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-17T00:00:00.000Z",
-    "End": "2016-08-16T04:00:00.000Z",
+    "End": "2016-08-17T04:00:00.000Z",
     "EventName": "Beach Volleyball",
     "EventDetails": "Semifinal (10 and/or 11 PM ET)",
     "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
@@ -1209,13 +846,13 @@
     "Start": "2016-08-17T01:15:00.000Z",
     "End": "2016-08-17T03:00:00.000Z",
     "EventName": "Women’s Basketball",
-    "EventDetails": "Quarterfinal",
+    "EventDetails": "Quarterfinal: France/Canada",
     "LiveOrTape": "LIVE"
   },
   {
     "Network": "NBCSN",
     "Start": "2016-08-17T01:15:00.000Z",
-    "End": "2016-08-16T04:00:00.000Z",
+    "End": "2016-08-17T04:00:00.000Z",
     "EventName": "Women’s Volleyball",
     "EventDetails": "Quarterfinal",
     "LiveOrTape": "LIVE"
@@ -1223,7 +860,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-17T01:15:00.000Z",
-    "End": "2016-08-16T04:00:00.000Z",
+    "End": "2016-08-17T04:00:00.000Z",
     "EventName": "Women’s Table Tennis",
     "EventDetails": "Team Final",
     "LiveOrTape": "TAPE (live stream at 6:30 PM)"
@@ -1232,8 +869,8 @@
     "Network": "Telemundo",
     "Start": "2016-08-16T04:00:00.000Z",
     "End": "2016-08-16T06:00:00.000Z",
-    "EventName": "To be announced",
-    "LiveOrTape": "TBD"
+    "EventName": "Recap",
+    "LiveOrTape": "TAPE"
   },
   {
     "Network": "NBC",
@@ -1281,7 +918,7 @@
   {
     "Network": "Golf Channel",
     "Start": "2016-08-17T22:30:00.000Z",
-    "End": "2016-08-17T19:00:00.000Z",
+    "End": "2016-08-18T19:00:00.000Z",
     "EventName": "Women’s Golf",
     "EventDetails": "First Round",
     "LiveOrTape": "LIVE"
@@ -1625,7 +1262,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-18T00:00:00.000Z",
-    "End": "2016-08-17T04:00:00.000Z",
+    "End": "2016-08-18T04:00:00.000Z",
     "EventName": "Women’s Beach Volleyball",
     "EventDetails": "Final (11 PM ET)",
     "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
@@ -1633,7 +1270,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-18T00:00:00.000Z",
-    "End": "2016-08-17T04:00:00.000Z",
+    "End": "2016-08-18T04:00:00.000Z",
     "EventName": "Track & Field",
     "EventDetails": "Women’s Long Jump final (8:15 PM), Women’s 200m Final (9:30 PM), Women’s 100m Hurdles (9:55 PM)",
     "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
@@ -1641,7 +1278,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-18T00:00:00.000Z",
-    "End": "2016-08-17T04:00:00.000Z",
+    "End": "2016-08-18T04:00:00.000Z",
     "EventName": "Women’s Diving",
     "EventDetails": "Platform Qualifying",
     "LiveOrTape": "TAPE (live stream at 2 PM)"
@@ -1673,7 +1310,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-18T03:00:00.000Z",
-    "End": "2016-08-17T04:00:00.000Z",
+    "End": "2016-08-18T04:00:00.000Z",
     "EventName": "Men’s Table Tennis",
     "EventDetails": "Team Final",
     "LiveOrTape": "TAPE (live stream at 6:30 PM)"
@@ -1681,7 +1318,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-18T03:00:00.000Z",
-    "End": "2016-08-17T04:00:00.000Z",
+    "End": "2016-08-18T04:00:00.000Z",
     "EventName": "Taekwondo",
     "EventDetails": "Final",
     "LiveOrTape": "TAPE (live stream at 7 PM)"
@@ -1739,7 +1376,7 @@
   {
     "Network": "Golf Channel",
     "Start": "2016-08-18T22:30:00.000Z",
-    "End": "2016-08-18T19:00:00.000Z",
+    "End": "2016-08-19T19:00:00.000Z",
     "EventName": "Women’s Golf",
     "EventDetails": "Second Round",
     "LiveOrTape": "LIVE"
@@ -1808,7 +1445,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-19T03:20:00.000Z",
-    "End": "2016-08-18T18:00:00.000Z",
+    "End": "2016-08-19T18:00:00.000Z",
     "EventName": "Men’s Water Polo",
     "EventDetails": "Semifinal",
     "LiveOrTape": "LIVE"
@@ -1816,7 +1453,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-19T03:20:00.000Z",
-    "End": "2016-08-18T18:00:00.000Z",
+    "End": "2016-08-19T18:00:00.000Z",
     "EventName": "Women’s Wrestling",
     "EventDetails": "Freestyle Qualifying",
     "LiveOrTape": "TAPE (live stream at 9 AM)"
@@ -1824,7 +1461,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-19T03:20:00.000Z",
-    "End": "2016-08-18T18:00:00.000Z",
+    "End": "2016-08-19T18:00:00.000Z",
     "EventName": "Men’s Field Hockey",
     "EventDetails": "Third-Place Match",
     "LiveOrTape": "??? (live stream at 11 AM)"
@@ -1896,7 +1533,7 @@
   {
     "Network": "Telemundo",
     "Start": "2016-08-18T18:00:00.000Z",
-    "End": "2016-08-18T04:00:00.000Z",
+    "End": "2016-08-19T04:00:00.000Z",
     "EventName": "Track & Field",
     "LiveOrTape": "??? (live streams at 8:30, 8:55, 9 and 9:25 AM, 12:25 PM)"
   },
@@ -1975,7 +1612,7 @@
   {
     "Network": "NBC Universo",
     "Start": "2016-08-18T22:00:00.000Z",
-    "End": "2016-08-18T04:00:00.000Z",
+    "End": "2016-08-19T04:00:00.000Z",
     "EventName": "Boxing",
     "LiveOrTape": "TAPE (live stream at 1 PM)"
   },
@@ -1998,7 +1635,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-19T00:00:00.000Z",
-    "End": "2016-08-18T04:00:00.000Z",
+    "End": "2016-08-19T04:00:00.000Z",
     "EventName": "Track & Field",
     "EventDetails": "Finals: Men’s Shot Put (7:30 PM), Women’s Javelin (8:10 PM), Men’s 1500m Decathlon (8:45 PM), Women’s 400m Hurdles (9:15 PM), Men’s 200m (9:30 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -2006,7 +1643,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-19T00:00:00.000Z",
-    "End": "2016-08-18T04:00:00.000Z",
+    "End": "2016-08-19T04:00:00.000Z",
     "EventName": "Women’s Diving",
     "EventDetails": "Platform Final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
@@ -2014,7 +1651,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-19T00:00:00.000Z",
-    "End": "2016-08-18T04:00:00.000Z",
+    "End": "2016-08-19T04:00:00.000Z",
     "EventName": "Men’s Beach Volleyball",
     "EventDetails": "Final (11 PM ET)",
     "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
@@ -2022,7 +1659,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-19T01:45:00.000Z",
-    "End": "2016-08-18T04:00:00.000Z",
+    "End": "2016-08-19T04:00:00.000Z",
     "EventName": "Women’s Volleyball",
     "EventDetails": "Semifinal",
     "LiveOrTape": "LIVE"
@@ -2030,7 +1667,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-19T01:45:00.000Z",
-    "End": "2016-08-18T04:00:00.000Z",
+    "End": "2016-08-19T04:00:00.000Z",
     "EventName": "Taekwondo",
     "EventDetails": "Finals",
     "LiveOrTape": "TAPE (live stream at 7 PM)"
@@ -2088,7 +1725,7 @@
   {
     "Network": "Golf Channel",
     "Start": "2016-08-19T22:30:00.000Z",
-    "End": "2016-08-19T19:00:00.000Z",
+    "End": "2016-08-20T19:00:00.000Z",
     "EventName": "Women’s Golf",
     "EventDetails": "Third Round",
     "LiveOrTape": "LIVE"
@@ -2176,7 +1813,7 @@
   {
     "Network": "USA",
     "Start": "2016-08-20T03:30:00.000Z",
-    "End": "2016-08-19T17:00:00.000Z",
+    "End": "2016-08-20T17:00:00.000Z",
     "EventName": "Women’s Field Hockey",
     "EventDetails": "Third Place Game",
     "LiveOrTape": "LIVE"
@@ -2184,7 +1821,7 @@
   {
     "Network": "USA",
     "Start": "2016-08-20T03:30:00.000Z",
-    "End": "2016-08-19T17:00:00.000Z",
+    "End": "2016-08-20T17:00:00.000Z",
     "EventName": "Men’s Badminton",
     "EventDetails": "Singles Semifinal",
     "LiveOrTape": "TAPE (live stream at 7:30 AM)"
@@ -2292,7 +1929,7 @@
   {
     "Network": "Telemundo",
     "Start": "2016-08-19T19:30:00.000Z",
-    "End": "2016-08-19T04:00:00.000Z",
+    "End": "2016-08-20T04:00:00.000Z",
     "EventName": "Rhythmic Gymnastics",
     "EventDetails": "Individual Qualifying",
     "LiveOrTape": "TAPE (live streams at 9:20 AM, 1:50 PM)"
@@ -2404,7 +2041,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-20T01:00:00.000Z",
-    "End": "2016-08-19T04:00:00.000Z",
+    "End": "2016-08-20T04:00:00.000Z",
     "EventName": "Men’s Volleyball",
     "EventDetails": "Semifinal",
     "LiveOrTape": "LIVE"
@@ -2412,14 +2049,14 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-20T01:00:00.000Z",
-    "End": "2016-08-19T04:00:00.000Z",
+    "End": "2016-08-20T04:00:00.000Z",
     "EventName": "Women’s Modern Pentathlon",
     "LiveOrTape": "TAPE (live stream at 11 AM and 1 and 5 PM)"
   },
   {
     "Network": "NBCSN",
     "Start": "2016-08-20T01:00:00.000Z",
-    "End": "2016-08-19T04:00:00.000Z",
+    "End": "2016-08-20T04:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Semifinal",
     "LiveOrTape": "TAPE (live stream at 1 PM)"
@@ -2427,7 +2064,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-20T01:00:00.000Z",
-    "End": "2016-08-19T04:00:00.000Z",
+    "End": "2016-08-20T04:00:00.000Z",
     "EventName": "Taekwondo",
     "EventDetails": "Final",
     "LiveOrTape": "TAPE (live stream at 7 PM)"
@@ -2435,7 +2072,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-20T03:35:00.000Z",
-    "End": "2016-08-19T04:35:00.000Z",
+    "End": "2016-08-20T04:35:00.000Z",
     "EventName": "Canoe/Kayak",
     "EventDetails": "Sprint Semifinals",
     "LiveOrTape": "TAPE (live stream at 8 AM)"
@@ -2485,7 +2122,7 @@
   {
     "Network": "Golf Channel",
     "Start": "2016-08-20T22:30:00.000Z",
-    "End": "2016-08-20T19:00:00.000Z",
+    "End": "2016-08-21T19:00:00.000Z",
     "EventName": "Women’s Golf",
     "EventDetails": "Final Round",
     "LiveOrTape": "LIVE"
@@ -2717,7 +2354,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-21T00:00:00.000Z",
-    "End": "2016-08-20T04:00:00.000Z",
+    "End": "2016-08-21T04:00:00.000Z",
     "EventName": "Track & Field",
     "EventDetails": "Finals: Women’s High Jump (7:30 PM), Men’s Javelin (7:55 PM), Men’s 1500m (8:00 PM), Women’s 800m (8:15 PM), Men’s 5000m (8:30 PM), Women’s 4x400m Relay (9:00 PM), Men’s 4x400m Relay (9:35 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -2725,7 +2362,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-21T00:00:00.000Z",
-    "End": "2016-08-20T04:00:00.000Z",
+    "End": "2016-08-21T04:00:00.000Z",
     "EventName": "Women’s Volleyball",
     "EventDetails": "Final  (9:15 PM)",
     "LiveOrTape": "LIVE (ET/CT)TAPE (MT/PT)"
@@ -2733,7 +2370,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-21T00:00:00.000Z",
-    "End": "2016-08-20T04:00:00.000Z",
+    "End": "2016-08-21T04:00:00.000Z",
     "EventName": "Men’s Diving",
     "EventDetails": "Platform Final",
     "LiveOrTape": "TAPE (live stream at 3:30 PM)"
@@ -2741,14 +2378,14 @@
   {
     "Network": "USA",
     "Start": "2016-08-21T02:00:00.000Z",
-    "End": "2016-08-20T04:00:00.000Z",
+    "End": "2016-08-21T04:00:00.000Z",
     "EventName": "Men’s Modern Pentathlon",
     "LiveOrTape": "TAPE (live streams at 11 AM,1 and 5 PM)"
   },
   {
     "Network": "USA",
     "Start": "2016-08-21T02:00:00.000Z",
-    "End": "2016-08-20T04:00:00.000Z",
+    "End": "2016-08-21T04:00:00.000Z",
     "EventName": "Taekwondo",
     "EventDetails": "Finals",
     "LiveOrTape": "TAPE (live stream at 7 PM)"
@@ -2933,7 +2570,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-22T03:35:00.000Z",
-    "End": "2016-08-21T07:00:00.000Z",
+    "End": "2016-08-22T07:00:00.000Z",
     "EventName": "Primetime replay",
     "LiveOrTape": "TAPE"
   },
@@ -3200,7 +2837,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-03T23:30:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Olympic Opening Ceremony",
     "LiveOrTape": "TAPE (all time zones)"
   },
@@ -3606,7 +3243,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Men’s Gymnastics",
     "EventDetails": "Team Competition",
     "LiveOrTape": "TAPE (live streams at 9:30 AM, 1:30 and 5:30 PM)"
@@ -3614,7 +3251,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Swimming",
     "EventDetails": "Men’s 400m Individual Medley Final (9:03 PM), Women’s 100m Butterfly Semi (9:14 PM), Men’s 400m Freestyle Final (9:30 PM), Women’s 400m Individual Medley Final (9:49 PM), Men’s 100m Breaststroke Semi (10:08 PM), Women’s 4x100m Freestyle Final (10:24 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -3622,7 +3259,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Beach Volleyball",
     "EventDetails": "USA (Walsh Jennings/Ross) v. Australia (Del Solar/Laird) (11 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -3670,7 +3307,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T01:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Table Tennis",
     "EventDetails": "Singles, Second Round",
     "LiveOrTape": "TAPE (live stream at 8 AM, 6 PM)"
@@ -3678,7 +3315,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T01:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Matches",
     "LiveOrTape": "TAPE (live stream at 10 AM, 4 PM)"
@@ -3694,7 +3331,7 @@
   {
     "Network": "OSC",
     "Start": "2016-08-04T03:00:00.000Z",
-    "End": "2016-08-03T17:00:00.000Z",
+    "End": "2016-08-04T17:00:00.000Z",
     "EventName": "Women’s Soccer",
     "EventDetails": "Colombia/New Zealand",
     "LiveOrTape": "TAPE (live stream at 7 PM)"
@@ -3702,7 +3339,7 @@
   {
     "Network": "OBC",
     "Start": "2016-08-04T03:15:00.000Z",
-    "End": "2016-08-03T05:00:00.000Z",
+    "End": "2016-08-04T05:00:00.000Z",
     "EventName": "Women’s Basketball",
     "EventDetails": "Belarus/Japan",
     "LiveOrTape": "TAPE (live stream at 6:45 PM)"
@@ -4096,7 +3733,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-03T23:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Gymnastics",
     "EventDetails": "Team Competition",
     "LiveOrTape": "TAPE (USA competes at 4:30 PM)"
@@ -4104,7 +3741,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-03T23:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Diving",
     "EventDetails": "Springboard Synchro Final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
@@ -4112,7 +3749,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-03T23:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Swimming",
     "EventDetails": "Women’s 100m Butterfly Final (9:03 PM), Men’s 200m Freestyle Semi (9:11 PM), Women’s 100m Backstroke Semi (9:29 PM), Men’s 100m Breaststroke Final (9:53 PM), Women’s 400m Freestyle Final (10:01 PM), Men’s 100m Backstroke Semi (10:12 PM), Women’s 100m Backstroke Semi (10:36 PM), Men’s 4x100m Freestyle Final (10:54 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -4192,7 +3829,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T03:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Judo",
     "EventDetails": "Finals",
     "LiveOrTape": "TAPE (live stream at 2:30 PM)"
@@ -4200,7 +3837,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T03:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Matches",
     "LiveOrTape": "TAPE"
@@ -4208,7 +3845,7 @@
   {
     "Network": "OSC",
     "Start": "2016-08-04T03:00:00.000Z",
-    "End": "2016-08-03T04:30:00.000Z",
+    "End": "2016-08-04T04:30:00.000Z",
     "EventName": "Men’s Soccer",
     "EventDetails": "Honduras/Portugal",
     "LiveOrTape": "TAPE (live stream at 2 PM)"
@@ -4216,7 +3853,7 @@
   {
     "Network": "OBC",
     "Start": "2016-08-04T03:15:00.000Z",
-    "End": "2016-08-03T05:00:00.000Z",
+    "End": "2016-08-04T05:00:00.000Z",
     "EventName": "Women’s Basketball",
     "EventDetails": "France/Belarus",
     "LiveOrTape": "TAPE (live stream at 6:45 PM)"
@@ -4224,7 +3861,7 @@
   {
     "Network": "Telemundo",
     "Start": "2016-08-03T16:00:00.000Z",
-    "End": "2016-08-03T06:00:00.000Z",
+    "End": "2016-08-04T06:00:00.000Z",
     "EventName": "Recap show",
     "LiveOrTape": "TAPE"
   },
@@ -4362,7 +3999,7 @@
   {
     "Network": "Telemundo",
     "Start": "2016-08-04T02:30:00.000Z",
-    "End": "2016-08-03T17:00:00.000Z",
+    "End": "2016-08-04T17:00:00.000Z",
     "EventName": "Women’s Beach Volleyball",
     "EventDetails": "Brazil (Agatha/Barbara) v. Argentina (Gallay/Klug) (airing at Noon)",
     "LiveOrTape": "TAPE (live stream at 10 AM)"
@@ -4370,7 +4007,7 @@
   {
     "Network": "Telemundo",
     "Start": "2016-08-04T02:30:00.000Z",
-    "End": "2016-08-03T17:00:00.000Z",
+    "End": "2016-08-04T17:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Matches",
     "LiveOrTape": "TAPE (live stream at 9 AM)"
@@ -4378,7 +4015,7 @@
   {
     "Network": "Telemundo",
     "Start": "2016-08-04T02:30:00.000Z",
-    "End": "2016-08-03T17:00:00.000Z",
+    "End": "2016-08-04T17:00:00.000Z",
     "EventName": "News recap",
     "LiveOrTape": "N/A"
   },
@@ -4687,7 +4324,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Men’s Gymnastics",
     "EventDetails": "Team Gold Medal Final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
@@ -4695,7 +4332,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Men’s Diving",
     "EventDetails": "Platform Synchro final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
@@ -4703,7 +4340,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Swimming",
     "EventDetails": "Women’s 200m Freestyle Semi (9:03 PM), Men’s 200m Freestyle Final (9:21 PM), Women’s 100m Backstroke Final (9:30 PM), Men’s 100m Backstroke Final (9:38 PM), Women’s 100m Breaststroke Final (9:54 PM), Men’s 200m Butterfly Semi (10:10 PM), Women’s 200m Individual Medley Semi (10:36 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -4711,7 +4348,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Beach Volleyball",
     "EventDetails": "USA (Walsh Jennings/Ross) v. China (Wang/Yue) (11 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -4727,7 +4364,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T01:30:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Volleyball",
     "EventDetails": "Brazil/Argentina",
     "LiveOrTape": "LIVE"
@@ -4735,7 +4372,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T01:30:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Rounds",
     "LiveOrTape": "TAPE (live streams at 10 AM, 4 PM)"
@@ -4743,7 +4380,7 @@
   {
     "Network": "OBC",
     "Start": "2016-08-04T03:15:00.000Z",
-    "End": "2016-08-03T05:00:00.000Z",
+    "End": "2016-08-04T05:00:00.000Z",
     "EventName": "Women’s Basketball",
     "EventDetails": "Senegal/China",
     "LiveOrTape": "TAPE (live stream at 6:45 PM)"
@@ -5192,7 +4829,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Gymnastics",
     "EventDetails": "Team Gold Medal Final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
@@ -5200,7 +4837,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Diving",
     "EventDetails": "Platform Synchro final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
@@ -5208,7 +4845,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Swimming",
     "EventDetails": "Men’s 100m Freestyle Semi (9:03 PM), Women’s 200m Freestyle Final (9:19 PM), Men’s 200m Butterfly Final (9:28 PM), Women’s 200m Butterfly Semi (9:37 PM), Men’s 200m Breaststroke Semi (10:03 PM), Women’s 200m Individual Medley Final (10:29 PM), Men’s 4x200m Freestyle Final (10:38 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -5232,7 +4869,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T01:30:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Men’s Volleyball",
     "EventDetails": "Brazil/Canada",
     "LiveOrTape": "LIVE"
@@ -5240,7 +4877,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T01:30:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Matches",
     "LiveOrTape": "TAPE (live streams at 10 AM, 4 PM)"
@@ -5761,7 +5398,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Beach Volleyball",
     "EventDetails": "USA (Walsh-Jennings/Ross) v. Switzerland (Forrer/Verge-Depre) (8 PM ET)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -5769,7 +5406,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Swimming",
     "EventDetails": "Men’s 200m Breaststroke Final (9:03 PM), Women’s 100m Freestyle Semi (9:12 PM), Men’s 200m Backstroke Semi (9:28 PM), Women’s 200m Butterfly Final (9:54 PM), Men’s 100m Freestyle Final (10:03 PM), Women’s 200m Breaststroke Semi (10:11 PM), Men’s 200m Individual Medley Semi (10:29 PM), Women’s 4x200m Freestyle Final (10:55 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -5777,7 +5414,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-04T00:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Men’s Gymnastics",
     "EventDetails": "All-Around Final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
@@ -5817,7 +5454,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T03:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Women’s Table Tennis",
     "EventDetails": "Singles final",
     "LiveOrTape": "TAPE (live stream at 7:30 PM)"
@@ -5825,7 +5462,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-04T03:00:00.000Z",
-    "End": "2016-08-03T04:00:00.000Z",
+    "End": "2016-08-04T04:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Matches",
     "LiveOrTape": "TAPE (live streams at 10 AM, 4 PM)"
@@ -6011,7 +5648,7 @@
   {
     "Network": "OBC",
     "Start": "2016-08-12T03:15:00.000Z",
-    "End": "2016-08-11T17:00:00.000Z",
+    "End": "2016-08-12T17:00:00.000Z",
     "EventName": "Women’s Basketball",
     "EventDetails": "Belarus/Turkey",
     "LiveOrTape": "LIVE"
@@ -6282,7 +5919,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-12T00:00:00.000Z",
-    "End": "2016-08-11T04:00:00.000Z",
+    "End": "2016-08-12T04:00:00.000Z",
     "EventName": "Women’s Gymnastics",
     "EventDetails": "All-Around Final",
     "LiveOrTape": "TAPE (live stream at 3 PM)"
@@ -6290,7 +5927,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-12T00:00:00.000Z",
-    "End": "2016-08-11T04:00:00.000Z",
+    "End": "2016-08-12T04:00:00.000Z",
     "EventName": "Swimming",
     "EventDetails": "Men’s 50m Freestyle Semi (9:03 PM), Women’s 200m Breaststroke Final (9:17 PM), Men’s 200m Backstroke Final (9:26 PM), Women’s 200m Backstroke Semi (9:35 PM), Men’s 200m Individual Medley (10:01 PM), Women’s 100m Freestyle Final (10:18 PM), Men’s 100m Butterfly Semi (10:34 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -6298,7 +5935,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-12T00:00:00.000Z",
-    "End": "2016-08-11T04:00:00.000Z",
+    "End": "2016-08-12T04:00:00.000Z",
     "EventName": "Women’s Fencing",
     "EventDetails": "Team Epee Final",
     "LiveOrTape": "TAPE (live stream at 5:30 PM)"
@@ -6306,7 +5943,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-12T00:00:00.000Z",
-    "End": "2016-08-11T04:00:00.000Z",
+    "End": "2016-08-12T04:00:00.000Z",
     "EventName": "Women’s Badminton",
     "EventDetails": "Doubles: USA (Lee/Obanana) v. South Korea (Jung/Shin)",
     "LiveOrTape": "TAPE (live stream at 7:30 PM)"
@@ -6314,7 +5951,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-12T00:00:00.000Z",
-    "End": "2016-08-11T04:00:00.000Z",
+    "End": "2016-08-12T04:00:00.000Z",
     "EventName": "Men’s Table Tennis",
     "EventDetails": "Final",
     "LiveOrTape": "???  (live stream at 8:30 PM)"
@@ -6322,7 +5959,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-12T00:00:00.000Z",
-    "End": "2016-08-11T04:00:00.000Z",
+    "End": "2016-08-12T04:00:00.000Z",
     "EventName": "Men’s Volleyball",
     "EventDetails": "United States/Brazil (9:35 PM)",
     "LiveOrTape": "LIVE"
@@ -6330,7 +5967,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-12T00:00:00.000Z",
-    "End": "2016-08-11T04:00:00.000Z",
+    "End": "2016-08-12T04:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Matches",
     "LiveOrTape": "TAPE (live streams at 10 AM, 4 PM)"
@@ -6353,7 +5990,7 @@
   {
     "Network": "Golf Channel",
     "Start": "2016-08-12T03:00:00.000Z",
-    "End": "2016-08-11T09:00:00.000Z",
+    "End": "2016-08-12T09:00:00.000Z",
     "EventName": "Encore coverage",
     "LiveOrTape": "TAPE"
   },
@@ -6475,7 +6112,7 @@
   {
     "Network": "Telemundo",
     "Start": "2016-08-13T02:30:00.000Z",
-    "End": "2016-08-12T16:00:00.000Z",
+    "End": "2016-08-13T16:00:00.000Z",
     "EventName": "Beach Volleyball",
     "EventDetails": "Rd. of 16",
     "LiveOrTape": "??? (live streams at 10 and 11 AM)"
@@ -6483,7 +6120,7 @@
   {
     "Network": "Telemundo",
     "Start": "2016-08-13T02:30:00.000Z",
-    "End": "2016-08-12T16:00:00.000Z",
+    "End": "2016-08-13T16:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Matches",
     "LiveOrTape": "??? (live streams at 10 AM, 4 PM)"
@@ -6826,7 +6463,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-13T00:00:00.000Z",
-    "End": "2016-08-12T04:00:00.000Z",
+    "End": "2016-08-13T04:00:00.000Z",
     "EventName": "Track & Field",
     "EventDetails": "Qualifying, Women’s Shot Put Final (9:00 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -6834,7 +6471,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-13T00:00:00.000Z",
-    "End": "2016-08-12T04:00:00.000Z",
+    "End": "2016-08-13T04:00:00.000Z",
     "EventName": "Swimming",
     "EventDetails": "Women’s 200m Backstroke Final (9:03 PM), Men’s 100m Butterfly Final (9:12 PM), Women’s 800m Freestyle Final (9:20 PM), Men’s 50m Freestyle Final (9:44 PM), Women’s 50m Freestyle Semi (10:00 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -6842,7 +6479,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-13T00:00:00.000Z",
-    "End": "2016-08-12T04:00:00.000Z",
+    "End": "2016-08-13T04:00:00.000Z",
     "EventName": "Women’s Diving",
     "EventDetails": "Springboard Qualifying",
     "LiveOrTape": "TAPE (live stream at 2:30 PM)"
@@ -6850,7 +6487,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-13T00:00:00.000Z",
-    "End": "2016-08-12T04:00:00.000Z",
+    "End": "2016-08-13T04:00:00.000Z",
     "EventName": "Women’s Beach Volleyball",
     "EventDetails": "USA (Walsh-Jennings/Ross) v. Italy (Menegatti/Giombini) (11 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -6882,7 +6519,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-13T03:00:00.000Z",
-    "End": "2016-08-12T04:00:00.000Z",
+    "End": "2016-08-13T04:00:00.000Z",
     "EventName": "Boxing",
     "EventDetails": "Elimination Round",
     "LiveOrTape": "TAPE (live streams at 10 AM and 4 PM)"
@@ -6890,7 +6527,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-13T03:00:00.000Z",
-    "End": "2016-08-12T04:00:00.000Z",
+    "End": "2016-08-13T04:00:00.000Z",
     "EventName": "Weightlifting",
     "EventDetails": "Finals",
     "LiveOrTape": "TAPE (live streams at 9, 2:30 and 6 PM)"
@@ -6898,7 +6535,7 @@
   {
     "Network": "Golf Channel",
     "Start": "2016-08-13T03:00:00.000Z",
-    "End": "2016-08-12T09:00:00.000Z",
+    "End": "2016-08-13T09:00:00.000Z",
     "EventName": "Encore coverage",
     "LiveOrTape": "TAPE"
   },
@@ -7362,7 +6999,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-14T00:00:00.000Z",
-    "End": "2016-08-13T04:00:00.000Z",
+    "End": "2016-08-14T04:00:00.000Z",
     "EventName": "Track & Field",
     "EventDetails": "Men’s Long Jump Final (7:50 PM),  Women’s 100m Semifinal (8:00 PM), Men’s 10k Final (8:25 PM); Women’s 100m Final (9:35 PM), Women’s Heptathlon (9:53 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -7370,7 +7007,7 @@
   {
     "Network": "NBC",
     "Start": "2016-08-14T00:00:00.000Z",
-    "End": "2016-08-13T04:00:00.000Z",
+    "End": "2016-08-14T04:00:00.000Z",
     "EventName": "Swimming",
     "EventDetails": "Finals: Women’s 50m Freestyle (9:03 PM), Men’s 1500m Freestyle (9:11 PM), Women’s 4×100 Medley Relay Final (9:49 PM), Men’s 4×100 Medley Relay (10:04 PM)",
     "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
@@ -7402,7 +7039,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-14T01:00:00.000Z",
-    "End": "2016-08-13T16:00:00.000Z",
+    "End": "2016-08-14T16:00:00.000Z",
     "EventName": "Men’s Weightlifting",
     "EventDetails": "94kg Final",
     "LiveOrTape": "TAPE (live stream at 6 PM)"
@@ -7410,7 +7047,7 @@
   {
     "Network": "NBCSN",
     "Start": "2016-08-14T01:00:00.000Z",
-    "End": "2016-08-13T16:00:00.000Z",
+    "End": "2016-08-14T16:00:00.000Z",
     "EventName": "Men’s Shooting",
     "EventDetails": "Pistol Final",
     "LiveOrTape": "TAPE (live stream at 11:30 AM)"
@@ -7426,7 +7063,7 @@
   {
     "Network": "Golf Channel",
     "Start": "2016-08-14T03:00:00.000Z",
-    "End": "2016-08-13T09:00:00.000Z",
+    "End": "2016-08-14T09:00:00.000Z",
     "EventName": "Encore coverage",
     "LiveOrTape": "TAPE"
   },
@@ -7449,6 +7086,415 @@
     "Network": "NBC",
     "Start": "2016-08-13T05:35:00.000Z",
     "End": "2016-08-13T09:00:00.000Z",
+    "EventName": "Primetime replay",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T06:00:00.000Z",
+    "End": "2016-08-14T10:00:00.000Z",
+    "EventName": "Encore coverage",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "Telemundo",
+    "Start": "2016-08-14T07:00:00.000Z",
+    "End": "2016-08-14T09:00:00.000Z",
+    "EventName": "Encore coverage",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T10:00:00.000Z",
+    "End": "2016-08-14T11:00:00.000Z",
+    "EventName": "Encore of NBC late night show",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC Universo",
+    "Start": "2016-08-14T10:00:00.000Z",
+    "End": "2016-08-15T00:00:00.000Z",
+    "EventName": "Encore coverage",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "Golf Channel",
+    "Start": "2016-08-14T10:30:00.000Z",
+    "End": "2016-08-14T19:00:00.000Z",
+    "EventName": "Men’s Golf",
+    "EventDetails": "Final Round",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T12:00:00.000Z",
+    "End": "2016-08-14T15:15:00.000Z",
+    "EventName": "(8:30 AM)",
+    "EventDetails": "Women’s Marathon",
+    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
+  },
+  {
+    "Network": "USA",
+    "Start": "2016-08-14T13:00:00.000Z",
+    "End": "2016-08-14T15:00:00.000Z",
+    "EventName": "Women’s Volleyball",
+    "EventDetails": "Serbia/Netherlands (8:30 AM)",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Bravo",
+    "Start": "2016-08-14T15:00:00.000Z",
+    "End": "2016-08-14T18:00:00.000Z",
+    "EventName": "Tennis",
+    "EventDetails": "Women’s Doubles and Mixed Doubles Final, Men’s Singles and Mixed Doubles Third-Place Match",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2016-08-14T15:00:00.000Z",
+    "End": "2016-08-14T17:00:00.000Z",
+    "EventName": "Wrestling",
+    "EventDetails": "Greco-Roman Qualifying",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2016-08-14T15:00:00.000Z",
+    "End": "2016-08-14T17:00:00.000Z",
+    "EventName": "Men’s Shooting",
+    "EventDetails": "Men’s Rifle, Three Positions Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Telemundo",
+    "Start": "2016-08-14T15:00:00.000Z",
+    "End": "2016-08-14T19:00:00.000Z",
+    "EventName": "Boxing",
+    "EventDetails": "Elimination Matches",
+    "LiveOrTape": "??? (live stream at 10 AM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T15:15:00.000Z",
+    "End": "2016-08-14T17:00:00.000Z",
+    "EventName": "Women’s Basketball",
+    "EventDetails": "United States/China",
+    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
+  },
+  {
+    "Network": "OBC",
+    "Start": "2016-08-14T15:15:00.000Z",
+    "End": "2016-08-14T17:00:00.000Z",
+    "EventName": "Women’s Basketball",
+    "EventDetails": "United States/China",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T17:00:00.000Z",
+    "End": "2016-08-14T19:00:00.000Z",
+    "EventName": "Men’s Golf",
+    "EventDetails": "Final Round",
+    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T17:00:00.000Z",
+    "End": "2016-08-14T19:00:00.000Z",
+    "EventName": "Equestrian",
+    "EventDetails": "Individual Jumping Qualifying",
+    "LiveOrTape": "TAPE (live stream at 9 AM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T17:00:00.000Z",
+    "End": "2016-08-14T19:00:00.000Z",
+    "EventName": "Synchronized Swimming",
+    "EventDetails": "Duet Qualifying",
+    "LiveOrTape": "TAPE (live stream at 10 AM)"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T17:00:00.000Z",
+    "End": "2016-08-14T19:00:00.000Z",
+    "EventName": "Men’s Basketball",
+    "EventDetails": "United States/France",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Telemundo OBC",
+    "Start": "2016-08-14T17:00:00.000Z",
+    "End": "2016-08-14T19:00:00.000Z",
+    "EventName": "Men’s Basketball",
+    "EventDetails": "United States/France",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "MSNBC",
+    "Start": "2016-08-14T17:00:00.000Z",
+    "End": "2016-08-14T19:30:00.000Z",
+    "EventName": "Men’s Water Polo",
+    "EventDetails": "Montenegro/Spain",
+    "LiveOrTape": "TAPE (live stream at 8:30 AM)"
+  },
+  {
+    "Network": "MSNBC",
+    "Start": "2016-08-14T17:00:00.000Z",
+    "End": "2016-08-14T19:30:00.000Z",
+    "EventName": "Men’s Field Hockey",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "TAPE (live streams at 9 and 11:30 AM)"
+  },
+  {
+    "Network": "Bravo",
+    "Start": "2016-08-14T18:00:00.000Z",
+    "End": "2016-08-15T04:00:00.000Z",
+    "EventName": "Tennis",
+    "EventDetails": "Men’s Singles Final: Argentina (Del Potro) v. Great Britain (Murray)",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T19:00:00.000Z",
+    "End": "2016-08-14T20:00:00.000Z",
+    "EventName": "Women’s Beach Volleyball",
+    "EventDetails": "Quarterfinal: Canada (Pavan/Bansley) v. Germany (Ludwig/Walkenhorst)",
+    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T19:00:00.000Z",
+    "End": "2016-08-14T21:00:00.000Z",
+    "EventName": "Men’s Water Polo",
+    "EventDetails": "United States/Italy",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T19:00:00.000Z",
+    "End": "2016-08-14T21:00:00.000Z",
+    "EventName": "Women’s Beach Volleyball",
+    "EventDetails": "Quarterfinal: Brazil (Larissa/Talita) v. Switzerland (Heidrich/Zumkehr) (4:00 PM)",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T19:00:00.000Z",
+    "End": "2016-08-14T21:00:00.000Z",
+    "EventName": "Telemundo",
+    "LiveOrTape": "3:00 PM"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T19:00:00.000Z",
+    "End": "2016-08-14T21:00:00.000Z",
+    "EventName": "Boxing",
+    "EventDetails": "Elimination Matches",
+    "LiveOrTape": "??? (live stream at 4 PM)"
+  },
+  {
+    "Network": "MSNBC",
+    "Start": "2016-08-14T19:30:00.000Z",
+    "End": "2016-08-14T21:00:00.000Z",
+    "EventName": "Men’s Table Tennis",
+    "EventDetails": "Team Quarterfinals",
+    "LiveOrTape": "TAPE (live streams at 9 AM and 2 PM)"
+  },
+  {
+    "Network": "MSNBC",
+    "Start": "2016-08-14T19:30:00.000Z",
+    "End": "2016-08-14T21:00:00.000Z",
+    "EventName": "Sailing",
+    "EventDetails": "Finals",
+    "LiveOrTape": "TAPE (live stream at Noon)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T20:00:00.000Z",
+    "End": "2016-08-14T22:00:00.000Z",
+    "EventName": "Women’s Volleyball",
+    "EventDetails": "United States/China",
+    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2016-08-14T20:00:00.000Z",
+    "End": "2016-08-14T23:00:00.000Z",
+    "EventName": "Women’s Handball",
+    "EventDetails": "Norway/Romania (3:40 PM)",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2016-08-14T20:00:00.000Z",
+    "End": "2016-08-14T23:00:00.000Z",
+    "EventName": "Men’s Field Hockey",
+    "EventDetails": "Netherlands/Australia (5 PM)",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2016-08-14T20:00:00.000Z",
+    "End": "2016-08-14T23:00:00.000Z",
+    "EventName": "Women’s Badminton",
+    "EventDetails": "USA (Wang) v. China (Li)",
+    "LiveOrTape": "TAPE (live stream at 2:55 PM)"
+  },
+  {
+    "Network": "OBC",
+    "Start": "2016-08-14T20:30:00.000Z",
+    "End": "2016-08-14T22:00:00.000Z",
+    "EventName": "Women’s Basketball",
+    "EventDetails": "Senegal/Serbia",
+    "LiveOrTape": "TAPE (live stream at 2:30 PM)"
+  },
+  {
+    "Network": "NBC Universo",
+    "Start": "2016-08-14T21:00:00.000Z",
+    "End": "2016-08-14T23:00:00.000Z",
+    "EventName": "Women’s Volleyball",
+    "EventDetails": "Italy/Puerto Rico",
+    "LiveOrTape": "TAPE (live stream at 2 PM)"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T21:00:00.000Z",
+    "End": "2016-08-14T23:45:00.000Z",
+    "EventName": "Wrestling",
+    "EventDetails": "Greco-Roman Finals",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T21:00:00.000Z",
+    "End": "2016-08-14T23:45:00.000Z",
+    "EventName": "Cycling",
+    "EventDetails": "Track Finals",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T21:00:00.000Z",
+    "End": "2016-08-14T23:45:00.000Z",
+    "EventName": "Women’s Weightlifting",
+    "EventDetails": "+75kg Finals",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "OBC",
+    "Start": "2016-08-14T22:00:00.000Z",
+    "End": "2016-08-14T23:45:00.000Z",
+    "EventName": "Men’s Basketball",
+    "EventDetails": "Australia/Venezuela",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T23:00:00.000Z",
+    "End": "2016-08-15T04:00:00.000Z",
+    "EventName": "Track & Field",
+    "EventDetails": "Finals: Women’s Triple Jump (7:55 PM), Men’s 400m (9:00 PM), Men’s 100m (9:25 PM)",
+    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T23:00:00.000Z",
+    "End": "2016-08-15T04:00:00.000Z",
+    "EventName": "Gymnastics",
+    "EventDetails": "Individual Event Finals: Men’s Floor, Women’s Vault, Men’s Pommel Horse, Women’s Bars",
+    "LiveOrTape": "TAPE (live stream at 1 PM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T23:00:00.000Z",
+    "End": "2016-08-15T04:00:00.000Z",
+    "EventName": "Women’s Diving",
+    "EventDetails": "Springboard Final",
+    "LiveOrTape": "TAPE (live stream at 3 PM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T23:00:00.000Z",
+    "End": "2016-08-15T04:00:00.000Z",
+    "EventName": "Women’s Beach Volleyball",
+    "EventDetails": "Quarterfinal: USA (Walsh-Jennings/Ross) v. Australia (Clancy/Bawden) (10:59 PM)",
+    "LiveOrTape": "LIVE (ET/CT), TAPE (MT/PT)"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T23:45:00.000Z",
+    "End": "2016-08-15T01:30:00.000Z",
+    "EventName": "Men’s Water Polo",
+    "EventDetails": "Brazil/Hungary",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-14T23:45:00.000Z",
+    "End": "2016-08-15T01:30:00.000Z",
+    "EventName": "Men’s Boxing",
+    "EventDetails": "Final, Elimination Rounds",
+    "LiveOrTape": "TAPE (live streams at 10 and 4 PM)"
+  },
+  {
+    "Network": "OBC",
+    "Start": "2016-08-14T23:45:00.000Z",
+    "End": "2016-08-15T01:30:00.000Z",
+    "EventName": "Women’s Basketball",
+    "EventDetails": "Spain/Canada",
+    "LiveOrTape": "TAPE (live stream at 4:45 PM)"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-15T01:30:00.000Z",
+    "End": "2016-08-15T04:00:00.000Z",
+    "EventName": "Women’s Volleyball",
+    "EventDetails": "Brazil/Russia",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2016-08-15T01:30:00.000Z",
+    "End": "2016-08-15T04:00:00.000Z",
+    "EventName": "Men’s Boxing",
+    "EventDetails": "Final, Elimination Rounds",
+    "LiveOrTape": "TAPE (live streams at 10 and 4 PM)"
+  },
+  {
+    "Network": "OBC",
+    "Start": "2016-08-15T01:30:00.000Z",
+    "End": "2016-08-15T03:15:00.000Z",
+    "EventName": "Men’s Basketball",
+    "EventDetails": "Serbia/China",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Telemundo",
+    "Start": "2016-08-14T04:00:00.000Z",
+    "End": "2016-08-14T06:00:00.000Z",
+    "EventName": "Encore coverage",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T04:35:00.000Z",
+    "End": "2016-08-14T05:35:00.000Z",
+    "EventName": "Gymnastics",
+    "EventDetails": "Individual Event Finals",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T04:35:00.000Z",
+    "End": "2016-08-14T05:35:00.000Z",
+    "EventName": "Women’s Beach Volleyball",
+    "EventDetails": "Quarterfinal: Brazil (Agatha/Barbara) v. Russia (Ukolova/Birlova)",
+    "LiveOrTape": "TAPE (live at 10 PM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2016-08-14T05:35:00.000Z",
+    "End": "2016-08-14T08:30:00.000Z",
     "EventName": "Primetime replay",
     "LiveOrTape": "TAPE"
   }

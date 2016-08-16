@@ -15,10 +15,16 @@ stroke: #000;
 shape-rendering: crispEdges;
 }
 
+.event {
+  fill-opacity: .5;
+  stroke: black;
+  stroke-width: 2px;
+}
+
 .live {
-fill: #33b5e5;
+  fill: green;
 }
 
 .tape {
-fill: #CC0000;
+  fill: red;
 }
